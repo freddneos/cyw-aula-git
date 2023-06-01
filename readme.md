@@ -4,4 +4,4 @@
 
 
 
-<a href='https://linkedin.com/in/freddbezerra'>Fredd Bezerra</a>
+<a href='https://linkedin.com/in/fredericobezerra'>Fredd Bezerra</a>
